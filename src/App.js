@@ -101,10 +101,11 @@ function App() {
   }
 
   return (
-    <div className="App">
-    
+      <div className="App">
+      <div className="titlee">
+         <h1>How much can you score?</h1>
+         </div>
       <header className="App-header">
-    
         <div className="cardWrapper">
           {colorList &&
             colorList.map((v, i) => (
