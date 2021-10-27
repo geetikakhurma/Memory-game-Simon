@@ -1,11 +1,19 @@
+*{
+  background-color: #8ba5db;
+}
+
 .App {
   text-align: center;
 position: relative;
+height: 200px;
+}
+
+.titlee{
+  margin: 5%;  
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #8ba5db;
   display: flex;
   flex-direction: column;
   align-items: center;
