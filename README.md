@@ -6,7 +6,9 @@ This game creates a series of lights and requires a user to repeat the sequence.
 The application based on React JS. 
 
 # DEMO
-memorygame-simon.netlify.app
+https://memoryygame-simon.netlify.app/
+
+# SCREENSHOT
 
 ![image](https://user-images.githubusercontent.com/43034251/139126703-e1acc42e-efac-444a-893d-ba636951b788.png)
 
